@@ -7,6 +7,8 @@
 
 ![Wheydson GitHub stats](https://github-readme-stats.vercel.app/api?username=WheydsonRichard&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WheydsonRichard&layout=compact)
+
 
 ## Tecnologia Que Uso no Meu Dia a Dia!
 
