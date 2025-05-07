@@ -1,4 +1,4 @@
-## Olá, Eu sou Wheydson Richard 👋🏽
+## Wheydson Richard 👨‍💻
 
 ---
 
