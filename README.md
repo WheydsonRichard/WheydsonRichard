@@ -1,12 +1,5 @@
 ## Olá, Eu sou Wheydson Richard 👋🏽
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=about.me&logoColor=white)](https://wheydsonrichard.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wheydsonrichardsa/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/timetechsoftware)
-
-![Wheydson GitHub stats](https://github-readme-stats.vercel.app/api?username=WheydsonRichard&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WheydsonRichard&layout=compact)
-
 ---
 
 ### 👨‍💻 Sobre mim
